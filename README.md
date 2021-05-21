@@ -1,1 +1,2 @@
 # my_search_engine
+当前进度：boolean search需要的倒序索引基本完成了，后续需要在此基础上添加词频信息来做后续的ranking
